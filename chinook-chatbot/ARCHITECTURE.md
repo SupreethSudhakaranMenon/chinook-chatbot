@@ -249,3 +249,4 @@ chinook-chatbot/
 | **Entity Lookup** | Triggered only on `lookup` route | **Eager Entity Linking**: Extract entities via lightweight regex/FTS in parallel for all queries. |
 | **Multi-turn Memory** | Retains conversational text | **Stateful Query Memory**: Retain previous SQL queries and resolved entity IDs for seamless drill-downs. |
 | **Latency** | 3 sequential LLM round-trips | **Unified Tool Calling**: Merge Router and SQL Generation into a single function-calling LLM step. |
+
