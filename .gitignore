@@ -22,4 +22,10 @@ _ReSharper.*
 .DS_Store
 .idea/
 .vs/
+chinook-chatbot/.env
+chinook-chatbot/.venv/
+chinook-chatbot/venv/
+chinook-chatbot/data/*.db
+__pycache__/
+*.pyc
 EnvDTE.dll
